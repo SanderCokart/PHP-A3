@@ -1,0 +1,4 @@
+Beschrijf in je eigen woorden wat volgens jou het verschil is tussen een object en een klasse.
+
+een klasse beinvloed de properties van de objecten en is bedoeld als een blauwdruk.
+van dat blauwdruk kun je objecten maken. Later als je een object wilt maken dus kun je refereren naar de blauwdruk.

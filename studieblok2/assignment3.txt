@@ -1,0 +1,5 @@
+private = private data can only be accessed by a function within a class but cannot be accessed from outside a class without the use of a function. this way the code outside the class cannot change the values within the class.
+
+public = unprotected, this data can be accessed by anyone at any time.
+
+protected = 

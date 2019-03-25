@@ -1,0 +1,7 @@
+-Leg uit waarom een constructor altijd public moet zijn.
+
+dat hoeft niet, maar is wel nodig om meerdere instanties van de klasse te maken.
+
+-What's the purpose of using a private constructor?
+
+It ensures that there can be only one instance of a Class and provides a global access point to that instance and this is common with The Singleton Pattern.

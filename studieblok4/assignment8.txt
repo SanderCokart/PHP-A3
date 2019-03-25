@@ -1,0 +1,8 @@
+- MySQL extends Database -> kan, MySQL is een type database
+- Mens extends Dier -> kan, ieder mens is een dier
+- Dier extends Organisme -> kan, ieder dier is een organisme
+- Mens extends Organisme -> kan ook, ieder mens is immers een organisme
+
++ Furniture extends House -> kan, huis kan meubels bevatten.
++ Processor extends Computer -> kan, een computer kan een processor bevatten.
++ Waterdrop extends Ocean -> kan, oceaan bestaad uit meerdere druppels water
